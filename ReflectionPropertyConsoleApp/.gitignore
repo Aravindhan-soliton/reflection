@@ -1,0 +1,35 @@
+# Visual Studio / Rider / ReSharper generated files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+_ReSharper.*/
+*.resharper
+*.resharper.user
+
+# Build results
+bin
+obj
+
+# NuGet packages
+/packages/
+*.nupkg
+*.paket.restore.log
+
+# .NET Core and Visual Studio code files
+.vscode/
+*.dll
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.dotCover
+*.cspkg
+*.csx
+*.build.csdef
+
+# Misc
+Thumbs.db
+*.DS_Store
